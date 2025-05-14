@@ -1,4 +1,4 @@
-**# 📦 Project SCP: A Modular, Open Source SCP Game Platform**
+# **📦 Project SCP: A Modular, Open Source SCP Game Platform**
 
 [![GitHub Stars](https://img.shields.io/github/stars/Project-SCP/Project-SCP.svg?style=flat-square)](https://github.com/Project-SCP/Project-SCP/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Project-SCP/Project-SCP.svg?style=flat-square)](https://github.com/Project-SCP/Project-SCP/network/members)
@@ -7,7 +7,7 @@
 
 ---
 
-**## 🚨 What is Project SCP?**
+## **🚨 What is Project SCP?**
 
 **Project SCP** is an **idea** for an open-source, Unreal Engine-powered reimagining of **SCP: Containment Breach**, designed not just as a game — but as a *platform*. The long-term goal is to create a modern, high-performance foundation where:
 
@@ -20,7 +20,7 @@ This is envisioned not as a simple remake — but as the **GMod of SCP**, built 
 
 ---
 
-**## 💡 Why Make *Project SCP*?**
+## **💡 Why Make *Project SCP*?**
 
 Project SCP began as a casual brainstorm while I was playing *SCP: Containment Breach Ultimate Edition Reborn* — a game I love, but one that’s showing its age. Between outdated visuals, performance hitches, and some terrifying legacy source code, I found myself wishing it could be ported to a modern engine.
 
@@ -45,7 +45,7 @@ This is a vision for a community platform where SCP games and stories — past, 
 
 ---
 
-**### 🌍 Why Should You Contribute?**
+### **🌍 Why Should You Contribute?**
 
 **Project SCP** is not yet real — it’s a dream that needs collaborators. Here’s why you might want to help build it:
 
@@ -58,7 +58,7 @@ This is a vision for a community platform where SCP games and stories — past, 
 
 ---
 
-**## 🧱 Key Feature Goals**
+## **🧱 Key Feature Goals**
 
 *These are planned goals and not yet implemented.*
 
@@ -105,7 +105,7 @@ This is a vision for a community platform where SCP games and stories — past, 
 
 ---
 
-**## 💡 Why Build This?**
+## **💡 Why Build This?**
 
 SCP: Containment Breach, built in Blitz3D, was groundbreaking — but technologically limited. Rather than patching legacy tech, **Project SCP** aims to reimagine the concept in a community-driven, modern environment.
 
@@ -117,7 +117,7 @@ We envision a future where:
 
 ---
 
-**## 🌍 Vision Statement**
+## **🌍 Vision Statement**
 
 Project SCP is not just a game — it's the *platform* for SCP creators.
 
@@ -127,7 +127,7 @@ Our hope is to eventually support reimaginations of titles like *SCP: Unity*, *S
 
 ---
 
-**## 🚧 Current Status**
+## **🚧 Current Status**
 
 > 💬 We are currently in the **design and architecture phase**.
 
@@ -139,7 +139,7 @@ This repository contains ideas, goals, and architecture plans. We are looking fo
 
 ---
 
-**## 🤝 Contributing**
+## **🤝 Contributing**
 
 We are just getting started, but we’re planning this to be a **Pull Request-friendly** and **open collaboration** project.
 
@@ -159,7 +159,7 @@ We are just getting started, but we’re planning this to be a **Pull Request-fr
 
 ---
 
-**## 📜 License**
+## **📜 License**
 
 This project is licensed under the **MIT License**. You can use, modify, and redistribute with attribution.
 
@@ -167,7 +167,7 @@ Note: Unreal Engine itself is covered by Epic Games' [Unreal Engine EULA](https:
 
 ---
 
-**## 📣 Join the Foundation**
+## **📣 Join the Foundation**
 
 This project won’t happen without *you*. We’re calling on writers, artists, developers, testers — anyone passionate about SCP — to help make **Project SCP** a reality.
 
