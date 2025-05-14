@@ -1,8 +1,8 @@
 # 📦 Project SCP: A Modular, Open Source SCP Game Platform
 
-[![GitHub Stars](https://img.shields.io/github/stars/TheFantasticLoki/project-scp.svg?style=flat-square)](https://github.com/TheFantasticLoki/project-scp/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/TheFantasticLoki/project-scp.svg?style=flat-square)](https://github.com/TheFantasticLoki/project-scp/network/members)
-[![Contributors](https://img.shields.io/github/contributors/TheFantasticLoki/project-scp.svg?style=flat-square)](https://github.com/TheFantasticLoki/project-scp/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/Project-SCP/Project-SCP.svg?style=flat-square)](https://github.com/Project-SCP/Project-SCP/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Project-SCP/Project-SCP.svg?style=flat-square)](https://github.com/Project-SCP/Project-SCP/network/members)
+[![Contributors](https://img.shields.io/github/contributors/Project-SCP/Project-SCP.svg?style=flat-square)](https://github.com/Project-SCP/Project-SCP/graphs/contributors)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
