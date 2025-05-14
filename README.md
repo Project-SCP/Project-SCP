@@ -16,7 +16,47 @@
 * 🌐 **Workshop integration** allows sharing, downloading, and even monetizing mods
 * 💡 **Developers and modders** can build entire SCP games using our framework
 
-This is not just a remake — it is the **GMod of SCP**. Built from the ground up for extensibility, creativity, and long-term support.
+This is not going to be just a remake — it is the **GMod of SCP**. Built from the ground up for extensibility, creativity, and long-term support.
+
+---
+
+## 💡 Why Make *Project SCP*?
+
+**Project SCP** began as a casual brainstorm while I was playing *SCP: Containment Breach Ultimate Edition Reborn* — a game I love, but one that’s beginning to show its age. Between outdated visuals, performance hitches, and some *nightmare fuel* source code, I found myself wishing I could port the entire experience to a modern engine.
+
+With **SCP: Unity** canceled before even reaching version 1.0, and numerous SCP games scattered across different engines and states of abandonment, I had a thought:
+
+> *"What if SCP\:CB was just a **mode** in a larger, GMod-like platform where people could easily add new content, maps, and stories — and keep the universe alive through community creativity?"*
+
+That idea became **Project SCP** — a performant, open-source Unreal Engine platform that:
+
+* Ships with a **Containment Breach base mode**, complete with core rooms, events, procedural generation, and SCP-173.
+* Allows modders to create and plug in new:
+
+  * 🧪 SCPs
+  * 🗺️ Rooms
+  * 🔁 Events
+  * 🎯 Endings
+  * 🎮 Entire new game modes
+* Uses modern systems (UE5, Nanite, Lumen, modular packaging) to deliver future-proof visuals and performance.
+* Offers a clear structure for **pull requests**, **Workshop content**, and even **optionally monetized DLCs** — where creators can recreate full SCP experiences and publish them on top of the platform.
+
+Think of it as **Garry’s Mod for SCP**, with all the flexibility and extensibility needed to make sure no SCP story — whether fan-made or classic — is ever lost to time or obsolescence.
+
+---
+
+### 🌍 Why Should You Contribute?
+
+**Project SCP** isn’t just another remake — it's a foundation for the entire SCP community.
+
+Here’s why you should consider joining the effort:
+
+* 🎮 **Longevity**: Mods are what make games survive — and thrive — for decades. *Project SCP* aims to be that foundation for all SCP games and stories.
+* 🛠️ **Collaboration**: Writers, developers, artists, and sound designers can all contribute — and get credited — as part of a living, breathing universe.
+* 💡 **Flexibility**: Whether you're making one SCP, a new mode, or a full game — this platform supports it.
+* 🧱 **Modular Framework**: No need to reinvent the wheel. Start with a rich sandbox, drop in your content, and share it instantly.
+* 💰 **Monetization Friendly**: You’ll be able to offer your own SCP projects as *optional DLCs or paid mods* (via Steam or other platforms), built on a community-approved, free foundation.
+* 📜 **Preservation of Legacy**: This project is about protecting and continuing the **legacy** of SCP fan games, not replacing them. If you loved SCP\:CB, SCP: Unity, or any other fangame — help us bring them into a unified future.
 
 ---
 
