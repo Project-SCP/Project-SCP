@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Maps/MainMenuMap.umap",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/UI/WBP_MainMenu.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Blueprints/BP_ProjectSCPGameInstance.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Core/Struct_GameModeData.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Core/DT_GameModes.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Maps/Archive/AC_MainMap.umap",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Maps/ContainmentBreach/CB_MainMap.umap",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Modes/Archive/BP_ArchiveGameMode.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Modes/ContainmentBreach/BP_ContainmentBreachGameMode.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/Modes/BP_MainMenuGameMode.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/UI/WBP_GameModeSelectorPanel.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/UI/WBP_GameModeButton.uasset",
+				"A:/Game Files/Projects/Project-SCP/Project_SCP_Client/Content/UI/DefaultRichTextStyles.uasset"
+			]
+		}
+	]
+}
