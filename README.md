@@ -16,7 +16,7 @@
 * 🌐 **Workshop integration** would allow sharing, downloading, and possibly monetizing mods
 * 💡 **Developers and modders** could build entire SCP games using the platform
 
-This is envisioned not as a simple remake — but as the **GMod of SCP**, built for extensibility, creativity, and community growth.
+This is envisioned not as a simple remake — but as the **GMod of SCP**, built for extensibility, creativity, and to be the new Hub for all things SCP. Bring your SCP to life.
 
 ---
 
