@@ -1,0 +1,56 @@
+# Ignore the intermediate and build files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# Ignore compiled Visual Studio files
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.user
+*.userosscache
+*.opensdf
+*.sdf
+
+# Ignore platform-specific files
+*.DS_Store
+*.apple
+*.ipa
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj
+*.xcuserdatad
+
+# Ignore Unreal autosave and backup files
+*_Backup.*
+*_Autosave.*
+
+# Ignore Unreal crash and log dumps
+*.log
+*.dmp
+
+# Ignore packaged builds
+WindowsNoEditor/
+LinuxNoEditor/
+MacNoEditor/
+Android/
+IOS/
+
+# Ignore any local plugin builds
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
+
+# Optional: ignore compiled shaders (if not using a shared DDC)
+Engine/DerivedDataCache/
+
+# Ignore Config/DefaultEditor.ini user-specific edits
+Config/DefaultEditor.ini
+
+# Ignore project-specific .idea folder (Rider, etc.)
+.idea/
