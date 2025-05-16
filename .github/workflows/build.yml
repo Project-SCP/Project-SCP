@@ -1,0 +1,27 @@
+name: Build ProjectSCP
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+    - name: Checkout project
+      uses: actions/checkout@v3
+
+    - name: Setup Environment Variables
+      run: |
+        echo "UE_PROJECT_NAME=ProjectSCP" >> $GITHUB_ENV
+        echo "UE_PROJECT_PATH=${{ github.workspace }}/ProjectSCP.uproject" >> $GITHUB_ENV
+
+    - name: Build Game (Windows)
+      run: |
+        "C:\Program Files\Epic Games\UE_5.5\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun ^
+        -project="%UE_PROJECT_PATH%" ^
+        -noP4 -platform=Win64 -clientconfig=Development -serverconfig=Development ^
+        -cook -allmaps -build -stage -pak -archive ^
+        -archivedirectory="${{ github.workspace }}/BuildOutput"
