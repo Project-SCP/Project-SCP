@@ -1,4 +1,4 @@
-name: Build ProjectSCP
+name: Build Project_SCP_Client
 
 on:
   push:
@@ -15,8 +15,8 @@ jobs:
 
     - name: Setup Environment Variables
       run: |
-        echo "UE_PROJECT_NAME=ProjectSCP" >> $GITHUB_ENV
-        echo "UE_PROJECT_PATH=${{ github.workspace }}/ProjectSCP.uproject" >> $GITHUB_ENV
+        echo "UE_PROJECT_NAME=Project_SCP_Client" >> $GITHUB_ENV
+        echo "UE_PROJECT_PATH=${{ github.workspace }}/Project_SCP_Client.uproject" >> $GITHUB_ENV
 
     - name: Build Game (Windows)
       run: |
