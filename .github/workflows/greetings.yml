@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Hello, Welcome to Project SCP! We thank you for taking the time to make an issue thread, we will try to address your issues in a timely fashion."
+        pr-message: "Hello and Thank You So Much for taking the time to contribute to Project SCP, We will get around to your Pull Requests asap"
