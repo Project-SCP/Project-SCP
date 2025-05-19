@@ -1,9 +1,9 @@
 # Ignore the intermediate and build files
-Binaries/
-Build/
-DerivedDataCache/
-Intermediate/
-Saved/
+Client/Binaries/
+Client/Build/
+Client/DerivedDataCache/
+Client/Intermediate/
+Client/Saved/
 .vs/
 .vscode/
 
@@ -35,22 +35,23 @@ Saved/
 *.dmp
 
 # Ignore packaged builds
-WindowsNoEditor/
-LinuxNoEditor/
-MacNoEditor/
-Android/
-IOS/
+Client/WindowsNoEditor/
+Client/LinuxNoEditor/
+Client/MacNoEditor/
+Client/Android/
+Client/IOS/
 
 # Ignore any local plugin builds
-Plugins/*/Intermediate/
-Plugins/*/Binaries/
-Plugins/*/Saved/
+Client/Plugins/*/Intermediate/
+Client/Plugins/*/Binaries/
+Client/Plugins/*/Saved/
 
 # Optional: ignore compiled shaders (if not using a shared DDC)
-Engine/DerivedDataCache/
+Client/Engine/DerivedDataCache/
 
 # Ignore Config/DefaultEditor.ini user-specific edits
-Config/DefaultEditor.ini
+Client/Config/DefaultEditor.ini
 
 # Ignore project-specific .idea folder (Rider, etc.)
-.idea/
+Client/.idea/
+*.log
