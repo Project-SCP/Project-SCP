@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PSCPSharedAssets",
+	"Description": "A plugin containing Project SCP Assets to be shared amonst modes and mods. We ask that Any Sharable Materials be packaged in standalone asset packs for the community to use.",
+	"Category": "Other",
+	"CreatedBy": "TheFantasticLoki",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

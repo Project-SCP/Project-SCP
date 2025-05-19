@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PSCPContainmentBreach",
+	"Description": "SCP: Containment Breach Game Mode for Project SCP, can you escape a facility overrun with monsters?",
+	"Category": "Other",
+	"CreatedBy": "TheFantasticLoki",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PSCPContainmentBreach",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Archive",
+			"Enabled": true
+		}
+	]
+}
