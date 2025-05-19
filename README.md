@@ -64,7 +64,7 @@ This is a vision for a community platform where SCP games and stories — past, 
 
 ### 🎮 Core Game Modes
 
-* Containment Breach-style progression
+* Containment Breach - Full Recreation with Native Mod Support, New Progression System, and More.
 * Multiple endings, narrative branching, SCP interactions
 * Modular gameplay systems for blinking, stamina, inventory
 
@@ -72,17 +72,17 @@ This is a vision for a community platform where SCP games and stories — past, 
 
 * Rooms built as individual blueprints
 * Procedural or manually authored maps
-* Metadata-driven (e.g. "requires keycard level 3")
+* Metadata-driven
 
 ### 👁️ Modern Rendering
 
 * Built in **Unreal Engine 5**
 * Lumen, Nanite, modern post-processing
-* Performance scaling for high and low-end PCs
+* Performance scaling for high and low-end Devices
 
 ### 🔌 Modding First
 
-* Mods distributed as `.pak` files
+* Mods developed as plugins.
 * Types:
 
   * 📦 SCPs (logic + models + behavior)
